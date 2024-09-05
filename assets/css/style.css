@@ -195,7 +195,7 @@
 }
 /* content at start */
 .mfp-fade.mfp-wrap .mfp-content {
-  opacity: 0;
+  opacity: 0.5;
   transition: all 0.15s ease-out;
 }
 /* content animate it */
@@ -1232,7 +1232,7 @@ a.menu-active:before {
   margin-bottom: 26px;
 }
 .slider-v2 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
-  color: #d0cfcb;
+  color: #fff;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
@@ -1325,7 +1325,7 @@ a.menu-active:before {
   margin-bottom: 26px;
 }
 .slider-v3 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
-  color: #d0cfcb;
+  color: #fff;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
@@ -2271,7 +2271,7 @@ overflow: auto;
   letter-spacing: 0.1em;
 }
 .slider-portfolio-horizontal .swiper-slide .slider-portfolio-content .slider-content .slider-text p {
-  color: #d0cfcb;
+  color: #fff;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
