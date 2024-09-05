@@ -1233,6 +1233,7 @@ a.menu-active:before {
 }
 .slider-v2 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
   color: #fff;
+  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
