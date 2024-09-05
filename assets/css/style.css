@@ -1173,8 +1173,7 @@ a.menu-active:before {
   color: #fff;
 }
 .wrap-slider-content .slider-content .slider-text p {
-  font-weight: 300;
-  background-color: #000000;
+  font-weight: 500;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.1em;
@@ -1234,10 +1233,9 @@ a.menu-active:before {
 }
 .slider-v2 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
   color: #fff;
-  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 14px;
 }
 .slider-v2 .button-underline {
@@ -1328,10 +1326,9 @@ a.menu-active:before {
 }
 .slider-v3 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
   color: #fff;
-  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 14px;
 }
 .slider-v3 .button-underline {
@@ -2275,10 +2272,9 @@ overflow: auto;
 }
 .slider-portfolio-horizontal .swiper-slide .slider-portfolio-content .slider-content .slider-text p {
   color: #fff;
-  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 14px;
 }
 .slider-portfolio-horizontal .button-underline {
