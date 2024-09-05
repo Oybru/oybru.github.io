@@ -1174,6 +1174,7 @@ a.menu-active:before {
 }
 .wrap-slider-content .slider-content .slider-text p {
   font-weight: 300;
+  background-color: #000000;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.1em;
@@ -1327,6 +1328,7 @@ a.menu-active:before {
 }
 .slider-v3 .swiper-slide .wrap-slider-content .slider-content .slider-text p {
   color: #fff;
+  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
@@ -2273,6 +2275,7 @@ overflow: auto;
 }
 .slider-portfolio-horizontal .swiper-slide .slider-portfolio-content .slider-content .slider-text p {
   color: #fff;
+  background-color: #000000;
   text-transform: none;
   letter-spacing: unset;
   font-weight: 300;
